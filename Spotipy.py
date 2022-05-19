@@ -165,7 +165,7 @@ lista = [
     }
 ]
 
-print("Bienvenido/a a los perfiles de los artistas")
+print("Bienvenido/a a los perfiles de los artistas.\n Los artistas existentes son:")
 
 
 for nombre in nombres:
